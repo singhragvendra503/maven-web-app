@@ -1,0 +1,12 @@
+steps:
+- name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+  args:
+  - gcloud
+  - functions
+  - deploy
+  - demo
+  - --region=us-east1
+  - --source=*/*.war
+  - --trigger-http
+  - --runtime=java11
+  - --docker_registry=artifact-registry

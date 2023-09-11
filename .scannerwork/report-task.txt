@@ -1,0 +1,6 @@
+projectKey=maven-web-app
+serverUrl=http://54.205.146.39:9000
+serverVersion=9.9.1.69595
+dashboardUrl=http://54.205.146.39:9000/dashboard?id=maven-web-app
+ceTaskId=AYmHaEVnZfJ9oYqJct6G
+ceTaskUrl=http://54.205.146.39:9000/api/ce/task?id=AYmHaEVnZfJ9oYqJct6G
